@@ -48,7 +48,7 @@ respective GitHub repos into Canvas.
 5. Wait for master (github actions) to build and check localhost to see the site is updated with your changes you just
    merged.
 6. "git pull origin master" to get the changes on master merged to your local copy
-7. Once you have the remote changes merged then start a new feature and repeat this process.
+7. Once you have the remote changes merged then start a new feature and repeat this process..
 
 # Install Instructions
 
