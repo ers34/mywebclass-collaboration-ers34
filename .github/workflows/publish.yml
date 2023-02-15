@@ -8,7 +8,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: kaw393939/mywebclass
+  DOCKER_REPO_NAME: seileen36/mywebclass-collaboration-ers34
 
 jobs:
   build:
